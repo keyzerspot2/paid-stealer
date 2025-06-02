@@ -5,3 +5,4 @@
 - Social media sessions
 - Screenshot & victim IP
 ⚠️ Chrome unsupported (DPAPI changes). Auto-zips logs, sends via Discord webhook.
+Join https://discord.gg/9NDebprh7p to buy
